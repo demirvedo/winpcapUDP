@@ -1,0 +1,2 @@
+D:\Projeler\VS\denemelik\Debug\denemelik.exe
+D:\Projeler\VS\denemelik\Debug\denemelik.pdb

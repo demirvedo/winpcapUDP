@@ -1,0 +1,5 @@
+﻿  denemelik.cpp
+D:\Projeler\VS\denemelik\denemelik.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projeler\VS\denemelik\denemelik.cpp(160,13): warning C4101: 'sport': unreferenced local variable
+D:\Projeler\VS\denemelik\denemelik.cpp(160,20): warning C4101: 'dport': unreferenced local variable
+  denemelik.vcxproj -> D:\Projeler\VS\denemelik\Debug\denemelik.exe
